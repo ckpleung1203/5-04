@@ -16,3 +16,8 @@ body{
     border-radius: 3px;
     border: 1px solid #ccc;
 }
+
+header{
+    background-color: #ECECEC;
+    padding: 10px 15px;
+}
